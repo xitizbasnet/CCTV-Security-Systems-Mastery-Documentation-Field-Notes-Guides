@@ -1,19 +1,3 @@
-# CCTV Infrastructure & Network Surveillance Documentation
-
-> **From Installation to Enterprise Integration**
-
----
-
-## 📘 Document Information
-
-| Item           | Details                                                                       |
-| -------------- | ----------------------------------------------------------------------------- |
-| Document Title | CCTV Technician                                                               |
-| Audience       | CCTV Technicians, IT Infrastructure Teams                                     |
-| Scope          | Installation, Configuration, Security, Monitoring, and Enterprise Integration |
-
----
-
 # Site Survey & Camera Placement Planning
 
 ## 🎯 Objective
